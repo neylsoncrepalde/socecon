@@ -1,0 +1,2 @@
+# socecon
+Sociologia Econômica - SBS
